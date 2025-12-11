@@ -1,0 +1,5 @@
+zig-out/
+.zig-cache/
+.aoc_cache/
+*main
+.aoc_session
